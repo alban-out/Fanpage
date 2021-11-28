@@ -32,12 +32,24 @@ ul {
 text-align: center;
  }
 
+.disco {
+list-style-type: none;
+}
+
 .menu {
 list-style-type: none;
 }
   
 .MentionsLegales {
  list-style-type: none;
+}
+
+.infoéditeur {
+list-style-type: none;
+}
+
+.coordonnées {
+list-style-type: none;
 }
 
 .Réseauxsociaux {
